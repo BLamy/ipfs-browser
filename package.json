@@ -1,0 +1,22 @@
+{
+  "name": "ipfs-browser",
+  "version": "0.1.0",
+  "main": "src/electron-starter.js",
+  "license": "MIT",
+  "dependencies": {
+    "dockerode": "^2.5.5",
+    "electron": "^2.0.0",
+    "foreman": "^2.0.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "electron": "electron .",
+    "dev": "nf start -p 3000",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
