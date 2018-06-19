@@ -1,4 +1,6 @@
 # Initial page
 
-![Concept](.gitbook/assets/ipfs-browser-concept.png)
+
+
+![](.gitbook/assets/ipfs-browser-concept%20%281%29.png)
 
